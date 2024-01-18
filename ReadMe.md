@@ -1,0 +1,2 @@
+This site is an example of how a typical website can be put together for a small POC, using bootstrap framework.
+<a href="https://sandhyadeepch.github.io/MKWebsite/index.html" target="_blank">Mystic Karate Center </a>
